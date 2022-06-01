@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @panwarharsh15
+- 👋 Hi, I’m @panwarharsh15
 - 👀 I’m interested in ...open source
 - 🌱 I’m currently learning ...DSA with java
 - 💞️ I’m looking to collaborate on ...
