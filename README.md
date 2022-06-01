@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @panwarharsh15
 - 👀 I’m interested in ...open source
-- 🌱 I’m currently learning ...DSA with java
+- 🌱 I’m currently learning ...DSA with java,devops, linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... panwarharsh200@gmail.com
 
